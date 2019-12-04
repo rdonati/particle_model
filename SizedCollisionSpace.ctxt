@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=SizedCollisionSpace
+comment1.params=size\ particles
+comment1.target=SizedCollisionSpace(int,\ int)
+comment2.params=
+comment2.target=void\ run()
+comment3.params=
+comment3.target=void\ initializeParticles()
+comment4.params=
+comment4.target=void\ initializeGrid()
+comment5.params=
+comment5.target=int\ printGrid()
+comment6.params=
+comment6.target=int\ printCondensation()
+comment7.params=
+comment7.target=int\ getCondensation()
+numComments=8

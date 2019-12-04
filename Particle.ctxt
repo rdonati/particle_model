@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Particle
+comment1.params=d
+comment1.target=Particle(int)
+comment2.params=p
+comment2.target=void\ collide(Particle)
+comment3.params=p1\ p2
+comment3.target=void\ collide(Particle,\ Particle)
+comment4.params=
+comment4.target=void\ changeDirection()
+numComments=5
